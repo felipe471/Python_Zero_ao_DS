@@ -1,0 +1,30 @@
+[18496:19100:0411/183026.096:ERROR:device_event_log_impl.cc(214)] [18:30:26.095] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+[18496:19100:0411/183026.097:ERROR:device_event_log_impl.cc(214)] [18:30:26.096] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+[18496:19100:0411/183026.097:ERROR:device_event_log_impl.cc(214)] [18:30:26.097] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+[21956:11520:0411/183055.244:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acesso negado. (0x5)
+[21956:11520:0411/183055.244:ERROR:cache_util.cc(144)] Unable to move cache folder C:\PycharmProjects\Curso_Python_Zero_DS\chrome-data\ShaderCache\GPUCache to C:\PycharmProjects\Curso_Python_Zero_DS\chrome-data\ShaderCache\old_GPUCache_000
+[21956:11520:0411/183055.244:ERROR:disk_cache.cc(184)] Unable to create cache
+[21956:11520:0411/183055.244:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[20000:18992:0411/183115.888:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acesso negado. (0x5)
+[20000:18992:0411/183115.889:ERROR:cache_util.cc(144)] Unable to move cache folder C:\PycharmProjects\Curso_Python_Zero_DS\chrome-data\ShaderCache\GPUCache to C:\PycharmProjects\Curso_Python_Zero_DS\chrome-data\ShaderCache\old_GPUCache_000
+[20000:18992:0411/183115.889:ERROR:disk_cache.cc(184)] Unable to create cache
+[20000:18992:0411/183115.889:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[16964:7340:0411/183130.405:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acesso negado. (0x5)
+[16964:7340:0411/183130.406:ERROR:cache_util.cc(144)] Unable to move cache folder C:\PycharmProjects\Curso_Python_Zero_DS\chrome-data\ShaderCache\GPUCache to C:\PycharmProjects\Curso_Python_Zero_DS\chrome-data\ShaderCache\old_GPUCache_000
+[16964:7340:0411/183130.406:ERROR:disk_cache.cc(184)] Unable to create cache
+[16964:7340:0411/183130.406:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[18496:19100:0411/212132.198:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/bootstrap_qr.2f82ee7dd80cf0cef06e.js (1)
+[18496:19100:0411/212132.199:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/bootstrap_qr.2f82ee7dd80cf0cef06e.js (1)
+[18496:19100:0411/212132.233:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://web.whatsapp.com/bootstrap_qr.2f82ee7dd80cf0cef06e.js (1)
+[18496:11428:0411/212136.432:WARNING:dns_config_service_win.cc(671)] Failed to read DnsConfig.
+[18496:19100:0411/212138.604:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://web.whatsapp.com/bootstrap_qr.2f82ee7dd80cf0cef06e.js (1)
+[18496:19100:0411/212829.610:ERROR:device_event_log_impl.cc(214)] [21:28:29.611] USB: usb_service_win.cc:258 Failed to get device driver name: Elemento não encontrado. (0x490)
+[18496:15076:0411/221517.259:WARNING:dns_config_service_win.cc(671)] Failed to read DnsConfig.
+[18496:19100:0411/221519.436:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://web.whatsapp.com/bootstrap_qr.2f82ee7dd80cf0cef06e.js (1)
+[18496:19100:0411/221519.447:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://web.whatsapp.com/bootstrap_qr.2f82ee7dd80cf0cef06e.js (1)
+[18496:22748:0411/221522.265:WARNING:dns_config_service_win.cc(671)] Failed to read DnsConfig.
+[18496:19100:0411/221534.278:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/bootstrap_qr.2f82ee7dd80cf0cef06e.js (1)
+[18496:19100:0411/221729.953:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED", source: https://web.whatsapp.com/bootstrap_qr.2f82ee7dd80cf0cef06e.js (1)
+[18496:19100:0411/221729.969:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_NETWORK_IO_SUSPENDED", source: https://web.whatsapp.com/bootstrap_qr.2f82ee7dd80cf0cef06e.js (1)
+[18496:19100:0411/221930.274:INFO:CONSOLE(1)] "WebSocket connection to 'wss://web.whatsapp.com/ws' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://web.whatsapp.com/bootstrap_qr.2f82ee7dd80cf0cef06e.js (1)
+[18496:19100:0411/223218.028:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

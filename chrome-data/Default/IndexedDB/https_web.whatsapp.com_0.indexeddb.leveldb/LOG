@@ -1,0 +1,15 @@
+2021/04/11-18:30:18.106 5bcc Reusing MANIFEST C:\PycharmProjects\Curso_Python_Zero_DS\chrome-data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/11-18:30:18.107 5bcc Recovering log #3
+2021/04/11-18:30:18.188 5bcc Reusing old log C:\PycharmProjects\Curso_Python_Zero_DS\chrome-data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
+2021/04/11-18:30:19.193 5bcc Level-0 table #5: started
+2021/04/11-18:30:19.249 5bcc Level-0 table #5: 1290431 bytes OK
+2021/04/11-18:30:19.253 5bcc Delete type=0 #3
+2021/04/11-21:55:37.462 2ca4 Level-0 table #7: started
+2021/04/11-21:55:37.511 2ca4 Level-0 table #7: 1277116 bytes OK
+2021/04/11-21:55:37.519 2ca4 Delete type=0 #4
+2021/04/11-21:55:38.863 3ae4 Compacting 1@1 + 1@2 files
+2021/04/11-21:55:38.913 3ae4 Generated table #8@1: 4829 keys, 253516 bytes
+2021/04/11-21:55:38.913 3ae4 Compacted 1@1 + 1@2 files => 253516 bytes
+2021/04/11-21:55:38.918 3ae4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/11-21:55:38.918 3ae4 Delete type=2 #5
+2021/04/11-21:55:38.918 3ae4 Delete type=2 #7

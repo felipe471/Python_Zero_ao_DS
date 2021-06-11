@@ -1,0 +1,50 @@
+1. Quantas casas estão disponíveis para compra?
+21613 casas
+
+2. Quantos atributos as casas possuem?
+21 atributos
+
+3. Quais são os atributos das casas?
+['id', 'date', 'price', 'bedrooms', 'bathrooms', 'sqft_living',
+       'sqft_lot', 'floors', 'waterfront', 'view', 'condition', 'grade',
+       'sqft_above', 'sqft_basement', 'yr_built', 'yr_renovated', 'zipcode',
+       'lat', 'long', 'sqft_living15', 'sqft_lot15']
+
+4. Qual a casa mais cara?
+id 6762700020
+
+5. Qual a casa com o maior número de quartos?
+id 2402100895
+
+6. Qual a soma total de quartos no conjunto de dados?
+72854 quartos
+
+7. Quantas casas possuem 2 banheiros?
+1930
+
+8. Qual o preço médio de todas as casas?
+$ 540088
+
+9. Qual o preço médio de todas as casas com 2 banheiros?
+O preço médio de todas as casas com 2 banheiros é $ 457889.72
+
+
+10. Qual o preço mínimo das casas com 3 quartos?
+O preço mínimo das casas com 3 quartos é $ 75000.00
+
+11. Quantas casas possuem mais de 300 m² na sala de estar?
+2258 casas possume mais de 300m² de sala de estar.
+
+12. Quantas casas tem mais de 2 andares?
+
+8241 casas possuem mais de 2 anadares
+
+13. Quantas casas tem vista para o mar?
+
+332 casas tem vista para o mar
+
+14. Das casas com vista para o mar, quantas tem 3 quartos?
+Das casas com vista para o mar, 120 tem 3 quartos
+
+15. Das casas com mais de 300 m² de sala de estar, quantas tem 3 banheiros?
+Das casas com mais de 300 m² de sala de estar, 185 tem 3 banheiros
